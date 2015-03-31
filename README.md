@@ -8,7 +8,7 @@ This application is a very simple one time pad. This pad allows you to input a m
 Installation
 --
 
-To install this software, all you need to do is clone the repository into a web directory. Alternatively, replace the script in index.html that calls jQuery from Google's API servers with a local copy of jQuery to run this from a local directory.
+To install this software, all you need to do is clone the repository into a web directory. Alternatively, replace the script in index.html that calls jQuery from Google's API servers with a local copy of jQuery (only THIS IS DONE IN THIS REPO) to run this from a local directory.
 
 
 License
