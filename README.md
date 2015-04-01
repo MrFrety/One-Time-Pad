@@ -7,8 +7,9 @@ This application is a very simple one time pad. This pad allows you to input a m
 
 Installation
 --
-Just click "Download ZIP", extract and open index.html in your browser.
-(This fork removes google-api and makes everything local.)
+Just click "Download ZIP", extract and open index.html in your browser.  
+
+(This fork removes the call to the Google API Servers and makes everything local.)
 
 License
 --
